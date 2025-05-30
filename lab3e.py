@@ -33,7 +33,7 @@ def give_list():
 
 def give_first_item():
     # Does not accept any arguments
-    return my_list[0]
+    return str(my_list[0])
     # Returns the first item in the global object my_list as a string
     
 
