@@ -4,7 +4,9 @@
 # Author ID: jgylagan
 
 def return_text_value():
-    return "Hello world from inside a function" # return text function from part 2
+    name = 'Terry'
+    greeting = 'Good Morning ' + name
+    return greeting # return text function from part 2
 
 # return_number_value() function
 
